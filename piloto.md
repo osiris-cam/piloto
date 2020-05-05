@@ -36,9 +36,9 @@ Programming by specifying the result you want, not how to get it. The programmer
     - Short (e.g. 0)
     - String (e.g. abc)
     - Void (e.g. no data)
-    ![data type](https://2.bp.blogspot.com/-vKeEhq3QPvA/Wvv5BGg8g1I/AAAAAAAAMSQ/-iBoXVQcI0g0tCVuMSA5IlvqqeqxQ1hjgCLcBGAs/s1600/1.jpeg)
-  - **Composite**: is one whose values are composed of component values. One example is an array.
-  - **Abstract**: are mathematical models of a set of data values or information that share similar behavior or qualities and that can be specified and identified independent of specific implementations. An abstract data type is defined in term of its data items or its associated operations rather than by its implementation.  
+  - **Derivied**: is one whose values are composed of component values. One example is an array.
+  - **User defined**: are mathematical models of a set of data values or information that share similar behavior or qualities and that can be specified and identified independent of specific implementations. An abstract data type is defined in term of its data items or its associated operations rather than by its implementation.  
+   ![data type](https://2.bp.blogspot.com/-vKeEhq3QPvA/Wvv5BGg8g1I/AAAAAAAAMSQ/-iBoXVQcI0g0tCVuMSA5IlvqqeqxQ1hjgCLcBGAs/s1600/1.jpeg)
 - **Memory space for each data type**:
   - Character: 1 byte
   - Unsigned character: 1 byte
@@ -60,6 +60,8 @@ Programming by specifying the result you want, not how to get it. The programmer
   - Long: -9223372036854775808 to 9223372036854775807
   - Unsigned Long: 0 to 18446744073709551615
 - Data type conversion: refers to either implicitly or explicitly changing a value from one data type storage format to another, e.g. a 16-bit integer to a 32-bit integer.
+Continued there is a graphic representation about data types from Xin's story:
+[C/ c++ data types and memory](https://xcbiology.files.wordpress.com/2015/07/table-e1438380260928.png)
 
 ### Operators
 - Conditional: is an operator that returns one of two values depending on the result of an expression. It is represent with “?:”.
