@@ -81,7 +81,7 @@ Is a style of building programs that expresses logic of computation without talk
   - Unsigned Short: 2 bytes
   - Long: 8 bytes
   - Unsigned Long: 8 bytes
-- Range of values of each data type:
+- [Range of values of each data type](https://xcbiology.files.wordpress.com/2015/07/table-e1438380260928.png):
   - Character: -128 to 127 or 0 to 255
   - Unsigned character: 0 to 255
   - Signed Character: -128 to 127
