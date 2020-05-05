@@ -60,8 +60,8 @@ Programming by specifying the result you want, not how to get it. The programmer
   - Long: -9223372036854775808 to 9223372036854775807
   - Unsigned Long: 0 to 18446744073709551615
 - Data type conversion: refers to either implicitly or explicitly changing a value from one data type storage format to another, e.g. a 16-bit integer to a 32-bit integer.
-Continued there is a graphic representation about data types from Xin's story:
-[C/ c++ data types and memory](https://xcbiology.files.wordpress.com/2015/07/table-e1438380260928.png)
+Continued there is a graphic representation about data types from Xin's story
+![C/ c++ data types and memory](https://xcbiology.files.wordpress.com/2015/07/table-e1438380260928.png)
 
 ### Operators
 - Conditional: is an operator that returns one of two values depending on the result of an expression. It is represent with “?:”.
