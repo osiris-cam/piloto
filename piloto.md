@@ -111,7 +111,7 @@ On the other hand, in the **centralized** all the sources and their versions are
 2. Subversion.
 
 
-Equipo|
+Equipo |
 *** |
 Osiris Odett Cámara Salinas|
 Victor Rodrigo Uribe Hernández |
