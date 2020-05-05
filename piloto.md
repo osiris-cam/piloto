@@ -47,11 +47,15 @@ Is a style of building programs that expresses logic of computation without talk
 ## Data representations and operators.  
 
 ### Data Representation
-- **Identifier**: is a string of alphanumeric characters that begins with an alphabetic character or an underscore character that are used to represent various programming elements such as variables, functions, arrays, structures, unions and so on.
-- **Variables**:  is a value that can change, depending on conditions or on information passed to the program.
+- [**Identifier**]( http://aboutc.weebly.com/identifiers.html
+): is a string of alphanumeric characters that begins with an alphabetic character or an underscore character that are used to represent various programming elements such as variables, functions, arrays, structures, unions and so on.
+- [**Variables**](https://press.rebus.community/programmingfundamentals/chapter/constants-and-variables/
+):  is a value that can change, depending on conditions or on information passed to the program.
 - **Constants**:  is a value that cannot be altered by the program during normal execution.
-- **Reserved Words**: are terms or phrases appropriated for special use that may not be utilized in the creation of variable names.
-- **Types of data**: is a type together with a collection of operations to manipulate the type.
+- [**Reserved Words**](https://www.computerhope.com/jargon/r/reseword.htm
+): are terms or phrases appropriated for special use that may not be utilized in the creation of variable names.
+- [**Types of data**]( https://dl.sumdu.edu.ua/textbooks/103395/597162/index.html
+): is a type together with a collection of operations to manipulate the type.
   - Primitive: are predefined types of data, which are supported by the programming language. 
     - Boolean (e.g. True or False)
     - Character (e.g. abc)
