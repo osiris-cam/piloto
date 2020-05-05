@@ -3,7 +3,7 @@
 
 ## What is a paradigma?  
 
-[Structured programming] (https://searchsoftwarequality.techtarget.com/definition/structured-programming-modular-programming) sometimes known as modular programmingis a programming paradigm that facilitates the creation of programs with readable code and reusable components. All modern programming languages support structured programming, but the mechanisms of support, like the syntax of the programming languages, varies.
+[Structured programming](https://searchsoftwarequality.techtarget.com/definition/structured-programming-modular-programming) sometimes known as modular programmingis a programming paradigm that facilitates the creation of programs with readable code and reusable components. All modern programming languages support structured programming, but the mechanisms of support, like the syntax of the programming languages, varies.
 
 Where modules or elements of code can be reused from a library, it may also be possible to build structured code using modules written in different languages, as long as they can obey a common module interface or application program interface (API) specification. However, when modules are reused, it's possible to compromise data security and governance, so it's important to define and enforce a privacy policy controlling the use of modules that bring with them implicit data access rights.
 According with TechTarget:
@@ -18,11 +18,11 @@ Programming by specifying the result you want, not how to get it. The programmer
 ## Data representations and operators.  
 
 ### Data Representation
-- Identifier: is a string of alphanumeric characters that begins with an alphabetic character or an underscore character that are used to represent various programming elements such as variables, functions, arrays, structures, unions and so on.
-- Variables:  is a value that can change, depending on conditions or on information passed to the program.
-- Constants:  is a value that cannot be altered by the program during normal execution.
-- Reserved Words: are terms or phrases appropriated for special use that may not be utilized in the creation of variable names.
-- Types of data: is a type together with a collection of operations to manipulate the type.
+- **Identifier**: is a string of alphanumeric characters that begins with an alphabetic character or an underscore character that are used to represent various programming elements such as variables, functions, arrays, structures, unions and so on.
+- **Variables**:  is a value that can change, depending on conditions or on information passed to the program.
+- **Constants**:  is a value that cannot be altered by the program during normal execution.
+- **Reserved Words**: are terms or phrases appropriated for special use that may not be utilized in the creation of variable names.
+- **Types of data**: is a type together with a collection of operations to manipulate the type.
   - Primitive: are predefined types of data, which are supported by the programming language. 
     - Boolean (e.g. True or False)
     - Character (e.g. abc)
@@ -34,9 +34,9 @@ Programming by specifying the result you want, not how to get it. The programmer
     - Short (e.g. 0)
     - String (e.g. abc)
     - Void (e.g. no data)
-  - Composite: is one whose values are composed of component values. One example is an array.
-  - Abstract : are mathematical models of a set of data values or information that share similar behavior or qualities and that can be specified and identified independent of specific implementations. An abstract data type is defined in term of its data items or its associated operations rather than by its implementation.  
-- Memory space for each data type:
+  - **Composite**: is one whose values are composed of component values. One example is an array.
+  - **Abstract**: are mathematical models of a set of data values or information that share similar behavior or qualities and that can be specified and identified independent of specific implementations. An abstract data type is defined in term of its data items or its associated operations rather than by its implementation.  
+- **Memory space for each data type**:
   - Character: 1 byte
   - Unsigned character: 1 byte
   - Signed Character: 1 byte
