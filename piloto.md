@@ -74,7 +74,7 @@ Programming by specifying the result you want, not how to get it. The programmer
   
   ## Version control.  
   
-  Version control is a piece of software that allows a person to manage the various changes made to a file. In other words, the version control tool is used to encode versions, binary and digital files.
+[Version control](https://www.git-tower.com/learn/git/ebook/en/command-line/basics/what-is-version-control) is a piece of software that allows a person to manage the various changes made to a file. In other words, the version control tool is used to encode versions, binary and digital files.
 Version control is sometimes called revision control and is a priority component in software configuration management. 
 
 ### How Does Version Control Work?
