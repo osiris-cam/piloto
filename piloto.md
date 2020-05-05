@@ -12,10 +12,37 @@ Programming paradigms are a way to classify programming languages based on their
 
 ![Varieties of paradigms](https://media.geeksforgeeks.org/wp-content/uploads/1-344.png)
 
-## Classification of programming paradigms.  
+## [Classification of programming paradigms.](https://www.geeksforgeeks.org/introduction-of-programming-paradigms/) 
 
-### Declarative: 
-Programming by specifying the result you want, not how to get it. The programmer states only what the result should look like, not how to obtain it. No loops, no assignments, etc. Whatever engine that interprets this code is just supposed go get the desired information, and can use whatever approach it wants.
+### Imperative Programming paradigm. 
+It performs step by step task by changing state. The main focus is on how to achieve the goal. The paradigm consist of several statements and after execution of all the result is stored.
+1. **Procedural programming paradigm:**:
+  This paradigm emphasizes on procedure in terms of underlying machine model. It has the ability to reuse the code and it was boon at that time when it was in use because of its reusability.  
+  
+2. **Object Oriented Programming:**
+  The program is written as a collection of classes and object which are meant for communication. More emphasis is on data rather procedure. It can handle almost all kind of real life problems which are today in scenario.  
+  
+3. **Parallel Processing approach:**
+  Parallel processing is the processing of program instructions by dividing them among multiple processors. A parallel processing system posses many numbers of processor with the objective of running a program in less time by dividing them. This approach seems to be like divide and conquer.
+
+### Declarative Programming paradigm.
+Is a style of building programs that expresses logic of computation without talking about its control flow. The focus is on what needs to be done rather how it should be done basically emphasize on what code code is actually doing. It just declare the result we want rather how it has be produced. 
+
+1. **Logic Programming paradigm:**
+  It can be termed as abstract model of computation. It would solve logical problems like puzzles, series etc. In logic programming we have a knowledge base which we know before and along with the question and knowledge base which is given to machine, it produces result.
+  
+2. **Functional Programming:**
+  The functional programming paradigms has its roots in mathematics and it is language independent. The key principal of this paradigms is the execution of series of mathematical functions. The central model for the abstraction is the function which are meant for some specific computation and not the data structure.
+  
+3. **Databases Processing approach:**
+  This programming methodology is based on data and its movement. Program statements are defined by data rather than hard-coding a series of steps. 
+
+
+
+
+
+
+
 
 ## Data representations and operators.  
 
@@ -65,18 +92,18 @@ Continued there is a graphic representation about data types from [Xin's story](
 ![C/ c++ data types and memory](https://xcbiology.files.wordpress.com/2015/07/table-e1438380260928.png)
 
 ### Operators
-- Conditional: is an operator that returns one of two values depending on the result of an expression. It is represent with “?:”.
-- Logical: Returns the result of a boolean operation.
-  - Negation: It represents with “!”.
-  - AND: It represents with “&&”.
-  - Inclusive Or: It represents with “l l”.
-- Relationship: are used to compare values of two variables.
-  - Greater than “>”
-  - Greater than or equal to “>=”
-  - Less than “<”
-  - Less than or equal to “<=”
-  - Equal to “==”
-  - Not equal to “!=”
+- ***Conditional***: is an operator that returns one of two values depending on the result of an expression. It is represent with **“?:”**
+- ***Logical***: Returns the result of a boolean operation.
+  - Negation: It represents with **!**.
+  - AND: It represents with **&&**.
+  - Inclusive Or: It represents with **||**.
+- ***Relationship***: are used to compare values of two variables.
+  - Greater than >.
+  - Greater than or equal to **>=**
+  - Less than <
+  - Less than or equal to **<=**
+  - Equal to **==**
+  - Not equal to **!=**
   
   Below is a descriptive image taken from the National Institute of [Open Schooling](http://oer.nios.ac.in/wiki/index.php/List_of_operators_used_in_JavaScript)
   ![List of operators in c](https://lh3.googleusercontent.com/proxy/UtM0k2eyWDmdXxG5bV7e7sxtpvYMghuY18pxA8-IzV6T3w5aJ1R0xZr5c6hD5Oo0Nw5hPYwg_v6j6D31iXG2MwQvZMPWvmrbBwCLHvAB)
@@ -92,10 +119,10 @@ This tool allows many developers to work together on the same protector. This ha
 Version control is important for all code, files, and assets that multiple team members will collaborate on. Using version control software helps you keep track of changes and keep every team member working off the latest version. 
 It needs to do more than just manage and track files. It should help you develop and ship products faster. 
 
-That’s because using the right one:
--Improves visibility. 
--Helps teams collaborate around the world. 
--Accelerates product delivery.  
+That’s because using the right one:  
+- Improves visibility. 
+- Helps teams collaborate around the world. 
+- Accelerates product delivery.  
 
 ![How does it work](https://miro.medium.com/max/1248/1*l08qyjBnX7K12p4DcINn3w.png)
 
