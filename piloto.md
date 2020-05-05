@@ -10,7 +10,7 @@ According with TechTarget:
 > Structured programming encourages dividing an application program into a hierarchy of modules or autonomous elements, which may, in turn, contain other such elements. Within each element, code may be further structured using blocks of related logic designed to improve readability and maintainability. These may include case, which tests a variable against a set of values; Repeat, while and for, which construct loops that continue until a condition is met. In all structured programming languages, an unconditional transfer of control, or goto statement, is deprecated and sometimes not even available.    
 Programming paradigms are a way to classify programming languages based on their features.
 
-!(Varieties of paradigms)[https://media.geeksforgeeks.org/wp-content/uploads/1-344.png]
+![Varieties of paradigms](https://media.geeksforgeeks.org/wp-content/uploads/1-344.png)
 
 ## Classification of programming paradigms.  
 
