@@ -1,5 +1,5 @@
 # **Introduction to structured programming**
--------------------------------------------------------------------------------------------------------------------------
+===
 
 ## What is a paradigma?  
 
@@ -98,7 +98,7 @@ That’s because using the right one:
 -Accelerates product delivery.  
 
 #### Varieties: Distributed and centralized version control.
-[There are two types of version control](https://homes.cs.washington.edu/~mernst/advice/version-control.html), **centralized** and **distributed**. **Distributed** is  much faster to execute because it has more functions. All developers have their own copy of the repository, with all versions and all history. Of course, as they develop and make changes, their sources and versions are different from each other. However it is a little more complex and there is no main repository.
+According with Michael Ernst, [there are two types of version control](https://homes.cs.washington.edu/~mernst/advice/version-control.html), **centralized** and **distributed**. **Distributed** is  much faster to execute because it has more functions. All developers have their own copy of the repository, with all versions and all history. Of course, as they develop and make changes, their sources and versions are different from each other. However it is a little more complex and there is no main repository.
 ##### Examples:
 - Git.
 - Baazaar.
