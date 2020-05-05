@@ -97,6 +97,8 @@ That’s because using the right one:
 -Helps teams collaborate around the world. 
 -Accelerates product delivery.  
 
+![How does it work](https://miro.medium.com/max/1248/1*l08qyjBnX7K12p4DcINn3w.png)
+
 #### Varieties: Distributed and centralized version control.
 According with Michael Ernst, [there are two types of version control](https://homes.cs.washington.edu/~mernst/advice/version-control.html), **centralized** and **distributed**. **Distributed** is  much faster to execute because it has more functions. All developers have their own copy of the repository, with all versions and all history. Of course, as they develop and make changes, their sources and versions are different from each other. However it is a little more complex and there is no main repository.  
 
@@ -110,7 +112,7 @@ According with Michael Ernst, [there are two types of version control](https://h
 
 On the other hand, in the **centralized** all the sources and their versions are stored in a single directory, which is called the source repository, of a computer (server). For this reason, developers who want to work with those fonts should ask the version control system for a local copy to work with.  
 
-[Centralized](https://homes.cs.washington.edu/~mernst/advice/version-control-fig2.png)
+![Centralized](https://homes.cs.washington.edu/~mernst/advice/version-control-fig2.png)
 
 ##### Examples:
 1. CVS.
