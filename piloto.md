@@ -59,8 +59,8 @@ Programming by specifying the result you want, not how to get it. The programmer
   - Unsigned Short: 0 to 65,535
   - Long: -9223372036854775808 to 9223372036854775807
   - Unsigned Long: 0 to 18446744073709551615
-- Data type conversion: refers to either implicitly or explicitly changing a value from one data type storage format to another, e.g. a 16-bit integer to a 32-bit integer.
-Continued there is a graphic representation about data types from Xin's story
+- Data type conversion: refers to either implicitly or explicitly changing a value from one data type storage format to another, e.g. a 16-bit integer to a 32-bit integer.  
+Continued there is a graphic representation about data types from [Xin's story](https://datachenblog.com/2015/07/31/cc-data-type-and-memory-management/)
 ![C/ c++ data types and memory](https://xcbiology.files.wordpress.com/2015/07/table-e1438380260928.png)
 
 ### Operators
