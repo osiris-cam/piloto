@@ -70,7 +70,8 @@ Is a style of building programs that expresses logic of computation without talk
   - **Derivied**: is one whose values are composed of component values. One example is an array.
   - **User defined**: are mathematical models of a set of data values or information that share similar behavior or qualities and that can be specified and identified independent of specific implementations. An abstract data type is defined in term of its data items or its associated operations rather than by its implementation.  
    ![data type](https://2.bp.blogspot.com/-vKeEhq3QPvA/Wvv5BGg8g1I/AAAAAAAAMSQ/-iBoXVQcI0g0tCVuMSA5IlvqqeqxQ1hjgCLcBGAs/s1600/1.jpeg)
-- **Memory space for each data type**:
+- [**Memory space for each data type**](https://www.tutorialspoint.com/cprogramming/c_data_types.htm
+):
   - Character: 1 byte
   - Unsigned character: 1 byte
   - Signed Character: 1 byte
@@ -90,7 +91,8 @@ Is a style of building programs that expresses logic of computation without talk
   - Unsigned Short: 0 to 65,535
   - Long: -9223372036854775808 to 9223372036854775807
   - Unsigned Long: 0 to 18446744073709551615
-- Data type conversion: refers to either implicitly or explicitly changing a value from one data type storage format to another, e.g. a 16-bit integer to a 32-bit integer.  
+- [**Data type conversion**](https://developerinsider.co/type-casting-c-programming/
+): refers to either implicitly or explicitly changing a value from one data type storage format to another, e.g. a 16-bit integer to a 32-bit integer.  
 Continued there is a graphic representation about data types from [Xin's story](https://datachenblog.com/2015/07/31/cc-data-type-and-memory-management/)
 
 ![C/ c++ data types and memory](https://xcbiology.files.wordpress.com/2015/07/table-e1438380260928.png)
