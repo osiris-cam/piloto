@@ -1,19 +1,23 @@
 # **Introduction to structured programming**
 -------------------------------------------------------------------------------------------------------------------------
 
-What is a paradigma?
+## What is a paradigma?
 --------------------------------------
 [Structured programming] (https://searchsoftwarequality.techtarget.com/definition/structured-programming-modular-programming) sometimes known as modular programmingis a programming paradigm that facilitates the creation of programs with readable code and reusable components. All modern programming languages support structured programming, but the mechanisms of support, like the syntax of the programming languages, varies.
 
 Where modules or elements of code can be reused from a library, it may also be possible to build structured code using modules written in different languages, as long as they can obey a common module interface or application program interface (API) specification. However, when modules are reused, it's possible to compromise data security and governance, so it's important to define and enforce a privacy policy controlling the use of modules that bring with them implicit data access rights.
 According with TechTarget:
 > Structured programming encourages dividing an application program into a hierarchy of modules or autonomous elements, which may, in turn, contain other such elements. Within each element, code may be further structured using blocks of related logic designed to improve readability and maintainability. These may include case, which tests a variable against a set of values; Repeat, while and for, which construct loops that continue until a condition is met. In all structured programming languages, an unconditional transfer of control, or goto statement, is deprecated and sometimes not even available.    
-
 Programming paradigms are a way to classify programming languages based on their features.
-#Declarative: 
+
+## Classification of programming paradigms.
+-----------------------------------------------------
+### Declarative: 
 Programming by specifying the result you want, not how to get it. The programmer states only what the result should look like, not how to obtain it. No loops, no assignments, etc. Whatever engine that interprets this code is just supposed go get the desired information, and can use whatever approach it wants.
 
-## Data Representation
+## Data representations and operators.
+------------------------------------
+### Data Representation
 - Identifier: is a string of alphanumeric characters that begins with an alphabetic character or an underscore character that are used to represent various programming elements such as variables, functions, arrays, structures, unions and so on.
 - Variables:  is a value that can change, depending on conditions or on information passed to the program.
 - Constants:  is a value that cannot be altered by the program during normal execution.
@@ -54,7 +58,7 @@ Programming by specifying the result you want, not how to get it. The programmer
   - Unsigned Long: 0 to 18446744073709551615
 - Data type conversion: refers to either implicitly or explicitly changing a value from one data type storage format to another, e.g. a 16-bit integer to a 32-bit integer.
 
-## Operators
+### Operators
 - Conditional: is an operator that returns one of two values depending on the result of an expression. It is represent with “?:”.
 - Logical: Returns the result of a boolean operation.
   - Negation: It represents with “!”.
@@ -69,6 +73,7 @@ Programming by specifying the result you want, not how to get it. The programmer
   - Not equal to “!=”
   
   ## Version control.
+ ---------------------------------------------
   Version control is a piece of software that allows a person to manage the various changes made to a file. In other words, the version control tool is used to encode versions, binary and digital files.
 Version control is sometimes called revision control and is a priority component in software configuration management. 
 
@@ -78,7 +83,7 @@ This tool allows many developers to work together on the same protector. This ha
 Version control is important for all code, files, and assets that multiple team members will collaborate on. Using version control software helps you keep track of changes and keep every team member working off the latest version. 
 It needs to do more than just manage and track files. It should help you develop and ship products faster. 
 
-That’s because using the right one:* Improves visibility. * Helps teams collaborate around the world. * Accelerates product delivery.
+That’s because using the right one:*Improves visibility. *Helps teams collaborate around the world. *Accelerates product delivery.
 
 
 
