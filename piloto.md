@@ -92,7 +92,24 @@ This tool allows many developers to work together on the same protector. This ha
 Version control is important for all code, files, and assets that multiple team members will collaborate on. Using version control software helps you keep track of changes and keep every team member working off the latest version. 
 It needs to do more than just manage and track files. It should help you develop and ship products faster. 
 
-That’s because using the right one:*Improves visibility. *Helps teams collaborate around the world. *Accelerates product delivery.
+That’s because using the right one:
+-Improves visibility. 
+-Helps teams collaborate around the world. 
+-Accelerates product delivery.  
+
+#### Varieties: Distributed and centralized version control.
+[There are two types of version control](https://homes.cs.washington.edu/~mernst/advice/version-control.html), **centralized** and **distributed**. **Distributed** is  much faster to execute because it has more functions. All developers have their own copy of the repository, with all versions and all history. Of course, as they develop and make changes, their sources and versions are different from each other. However it is a little more complex and there is no main repository.
+##### Examples:
+- Git.
+- Baazaar.
+- Mercurial.
+- Darcs.  
+
+On the other hand, in the **centralized** all the sources and their versions are stored in a single directory, which is called the source repository, of a computer (server). For this reason, developers who want to work with those fonts should ask the version control system for a local copy to work with.
+##### Examples:
+- CVS.
+- Subversion.
+
 
 
 
