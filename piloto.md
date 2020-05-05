@@ -36,6 +36,7 @@ Programming by specifying the result you want, not how to get it. The programmer
     - Short (e.g. 0)
     - String (e.g. abc)
     - Void (e.g. no data)
+    [data type](https://2.bp.blogspot.com/-vKeEhq3QPvA/Wvv5BGg8g1I/AAAAAAAAMSQ/-iBoXVQcI0g0tCVuMSA5IlvqqeqxQ1hjgCLcBGAs/s1600/1.jpeg)
   - **Composite**: is one whose values are composed of component values. One example is an array.
   - **Abstract**: are mathematical models of a set of data values or information that share similar behavior or qualities and that can be specified and identified independent of specific implementations. An abstract data type is defined in term of its data items or its associated operations rather than by its implementation.  
 - **Memory space for each data type**:
