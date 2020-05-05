@@ -112,6 +112,7 @@ On the other hand, in the **centralized** all the sources and their versions are
 
 
 Equipo |
-*** |
-Osiris Odett Cámara Salinas|
+*** |  
+Osiris Odett Cámara Salinas|  
+
 Victor Rodrigo Uribe Hernández |
