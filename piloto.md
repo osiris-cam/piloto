@@ -1,9 +1,5 @@
-# **Introduction to structured programming**
--------------------------------------
--------------------------------------
-# Equipo
-Osiris Odett Cámara Salinas
-Victor Rodrigo Uribe Hernández 
+                              # **Introduction to structured programming**
+-------------------------------------------------------------------------------------------------------------------------
 
 What is a paradigma?
 --------------------------------------
