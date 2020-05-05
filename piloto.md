@@ -71,6 +71,22 @@ Programming by specifying the result you want, not how to get it. The programmer
   - Less than or equal to “<=”
   - Equal to “==”
   - Not equal to “!=”
+  
+  ## Version control.
+  Version control is a piece of software that allows a person to manage the various changes made to a file. In other words, the version control tool is used to encode versions, binary and digital files.
+Version control is sometimes called revision control and is a priority component in software configuration management. 
+
+How Does Version Control Work?
+This tool allows many developers to work together on the same protector. This happens when the project becomes more complex and there is a need to handle multiple versions.
+
+Version control is important for all code, files, and assets that multiple team members will collaborate on. Using version control software helps you keep track of changes and keep every team member working off the latest version. 
+It needs to do more than just manage and track files. It should help you develop and ship products faster. 
+
+That’s because using the right one:
+-Improves visibility.
+-Helps teams collaborate around the world.
+-Accelerates product delivery.
+
 
 
 # Equipo
