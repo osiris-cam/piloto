@@ -61,6 +61,7 @@ Programming by specifying the result you want, not how to get it. The programmer
   - Unsigned Long: 0 to 18446744073709551615
 - Data type conversion: refers to either implicitly or explicitly changing a value from one data type storage format to another, e.g. a 16-bit integer to a 32-bit integer.  
 Continued there is a graphic representation about data types from [Xin's story](https://datachenblog.com/2015/07/31/cc-data-type-and-memory-management/)
+
 ![C/ c++ data types and memory](https://xcbiology.files.wordpress.com/2015/07/table-e1438380260928.png)
 
 ### Operators
@@ -76,6 +77,9 @@ Continued there is a graphic representation about data types from [Xin's story](
   - Less than or equal to “<=”
   - Equal to “==”
   - Not equal to “!=”
+  
+  Below is a descriptive image taken from the National Institute of [Open Schooling](http://oer.nios.ac.in/wiki/index.php/List_of_operators_used_in_JavaScript)
+  ![List of operators in c](https://lh3.googleusercontent.com/proxy/UtM0k2eyWDmdXxG5bV7e7sxtpvYMghuY18pxA8-IzV6T3w5aJ1R0xZr5c6hD5Oo0Nw5hPYwg_v6j6D31iXG2MwQvZMPWvmrbBwCLHvAB)
   
   ## Version control.  
   
