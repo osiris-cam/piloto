@@ -91,6 +91,9 @@ Is a style of building programs that expresses logic of computation without talk
 3. **Databases Processing approach:**
   This programming methodology is based on data and its movement. Program statements are defined by data rather than hard-coding a series of steps. Examples: SQL.
   
+4. **Structured**:
+   Programming with clean, goto-free, nested control structures. Is a kind of imperative programming where control flow is defined by nested loops, conditionals, and subroutines, rather than via gotos. Variables are generally local to blocks.
+  
 ## [Programming language.](https://hackr.io/blog/what-is-programming-language)
 A programming language is the translation from human language to machine language and is designed to carry out processes that only computers can achieve. They are used to create codes that control the behavior of the computer. These codes are expressed as algorithms as a mode of human communication. It is made up of symbols and syntactic rules that define its structure and the meaning of each expression and element. In addition there is a process which is testing, debugging, compilation and then the source code is maintained. That is called programming.
 There are three types of programming language:
