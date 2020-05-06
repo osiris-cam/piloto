@@ -1,7 +1,7 @@
 # **Introduction to structured programming**
 -------------------------------------------------------------------------------------------------------------------------
 
-## What is a paradigma?  
+## What is a paradigm?  
 
 [Structured programming](https://searchsoftwarequality.techtarget.com/definition/structured-programming-modular-programming) sometimes known as modular programmingis a programming paradigm that facilitates the creation of programs with readable code and reusable components. All modern programming languages support structured programming, but the mechanisms of support, like the syntax of the programming languages, varies.
 
@@ -18,24 +18,40 @@ Programming paradigms are a way to classify programming languages based on their
 It performs step by step task by changing state. The main focus is on how to achieve the goal. The paradigm consist of several statements and after execution of all the result is stored.
 1. **Procedural programming paradigm:**:
   This paradigm emphasizes on procedure in terms of underlying machine model. It has the ability to reuse the code and it was boon at that time when it was in use because of its reusability.  
+BASIC, Pascal and C are examples of this paradigm.  
   
 2. **Object Oriented Programming:**
-  The program is written as a collection of classes and object which are meant for communication. More emphasis is on data rather procedure. It can handle almost all kind of real life problems which are today in scenario.  
+  The program is written as a collection of classes and object which are meant for communication. More emphasis is on data rather procedure. It can handle almost all kind of real life problems which are today in scenario. Examples: Java, JavaScript, Python, C++, Visual Basic, .NET, Ruby, Scala and PHP
   
 3. **Parallel Processing approach:**
   Parallel processing is the processing of program instructions by dividing them among multiple processors. A parallel processing system posses many numbers of processor with the objective of running a program in less time by dividing them. This approach seems to be like divide and conquer.
 
 ### Declarative Programming paradigm.
-Is a style of building programs that expresses logic of computation without talking about its control flow. The focus is on what needs to be done rather how it should be done basically emphasize on what code code is actually doing. It just declare the result we want rather how it has be produced. 
+Is a style of building programs that expresses logic of computation without talking about its control flow. The focus is on what needs to be done rather how it should be done basically emphasize on what code code is actually doing. It just declare the result we want rather how it has be produced. Here an example in a code:
+ ~ ~ ~
+ const container = document.getElementById(‘container’);
+const btn = document.createElement(‘button’);
+btn.className = ‘btn red’;
+btn.onclick = function(event) {
+ if (this.classList.contains(‘red’)) {
+   this.classList.remove(‘red’);
+   this.classList.add(‘blue’);
+ } else {
+   this.classList.remove(‘blue’);
+   this.classList.add(‘red’);
+ }
+};
+container.appendChild(btn);
+ ~ ~ ~
 
 1. **Logic Programming paradigm:**
-  It can be termed as abstract model of computation. It would solve logical problems like puzzles, series etc. In logic programming we have a knowledge base which we know before and along with the question and knowledge base which is given to machine, it produces result.
+  It can be termed as abstract model of computation. It would solve logical problems like puzzles, series etc. In logic programming we have a knowledge base which we know before and along with the question and knowledge base which is given to machine, it produces result.Examples: Mercury, ECLiPSe, QL, PROGOL, etc. 
   
 2. **Functional Programming:**
-  The functional programming paradigms has its roots in mathematics and it is language independent. The key principal of this paradigms is the execution of series of mathematical functions. The central model for the abstraction is the function which are meant for some specific computation and not the data structure.
+  The functional programming paradigms has its roots in mathematics and it is language independent. The key principal of this paradigms is the execution of series of mathematical functions. The central model for the abstraction is the function which are meant for some specific computation and not the data structure. Examples:Python, Haskell, Lisp, Erlang y Clojure. 
   
 3. **Databases Processing approach:**
-  This programming methodology is based on data and its movement. Program statements are defined by data rather than hard-coding a series of steps. 
+  This programming methodology is based on data and its movement. Program statements are defined by data rather than hard-coding a series of steps. Examples: SQL.
 
 
 
