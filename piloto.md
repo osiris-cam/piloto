@@ -27,8 +27,8 @@ BASIC, Pascal and C are examples of this paradigm.
   Parallel processing is the processing of program instructions by dividing them among multiple processors. A parallel processing system posses many numbers of processor with the objective of running a program in less time by dividing them. This approach seems to be like divide and conquer.
 
 ### Declarative Programming paradigm.
-Is a style of building programs that expresses logic of computation without talking about its control flow. The focus is on what needs to be done rather how it should be done basically emphasize on what code code is actually doing. It just declare the result we want rather how it has be produced. Here an example in a code:
- ~ ~ ~
+Is a style of building programs that expresses logic of computation without talking about its control flow. The focus is on what needs to be done rather how it should be done basically emphasize on what code code is actually doing. It just declare the result we want rather how it has be produced. Here an example in a code:  
+```
  const container = document.getElementById(‘container’);
 const btn = document.createElement(‘button’);
 btn.className = ‘btn red’;
@@ -42,7 +42,7 @@ btn.onclick = function(event) {
  }
 };
 container.appendChild(btn);
- ~ ~ ~
+```
 
 1. **Logic Programming paradigm:**
   It can be termed as abstract model of computation. It would solve logical problems like puzzles, series etc. In logic programming we have a knowledge base which we know before and along with the question and knowledge base which is given to machine, it produces result.Examples: Mercury, ECLiPSe, QL, PROGOL, etc. 
@@ -52,12 +52,6 @@ container.appendChild(btn);
   
 3. **Databases Processing approach:**
   This programming methodology is based on data and its movement. Program statements are defined by data rather than hard-coding a series of steps. Examples: SQL.
-
-
-
-
-
-
 
 
 ## Data representations and operators.  
