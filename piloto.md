@@ -15,21 +15,9 @@ Programming paradigms are a way to classify programming languages based on their
 ## [Classification of programming paradigms.](https://www.geeksforgeeks.org/introduction-of-programming-paradigms/) 
 
 ### Imperative Programming paradigm. 
-It performs step by step task by changing state. The main focus is on how to achieve the goal. The paradigm consist of several statements and after execution of all the result is stored.
-1. **Procedural programming paradigm:**:
-  This paradigm emphasizes on procedure in terms of underlying machine model. It has the ability to reuse the code and it was boon at that time when it was in use because of its reusability.  
-BASIC, Pascal and C are examples of this paradigm.  
-  
-2. **Object Oriented Programming:**
-  The program is written as a collection of classes and object which are meant for communication. More emphasis is on data rather procedure. It can handle almost all kind of real life problems which are today in scenario. Examples: Java, JavaScript, Python, C++, Visual Basic, .NET, Ruby, Scala and PHP
-  
-3. **Parallel Processing approach:**
-  Parallel processing is the processing of program instructions by dividing them among multiple processors. A parallel processing system posses many numbers of processor with the objective of running a program in less time by dividing them. This approach seems to be like divide and conquer.
-
-### Declarative Programming paradigm.
-Is a style of building programs that expresses logic of computation without talking about its control flow. The focus is on what needs to be done rather how it should be done basically emphasize on what code code is actually doing. It just declare the result we want rather how it has be produced. Here an example in a code:  
+It performs step by step task by changing state. The main focus is on how to achieve the goal. The paradigm consist of several statements and after execution of all the result is stored. Here an [example](https://spines.me/es/help/markdown/syntax/) of code:
 ```
- const container = document.getElementById(‘container’);
+const container = document.getElementById(‘container’);
 const btn = document.createElement(‘button’);
 btn.className = ‘btn red’;
 btn.onclick = function(event) {
@@ -42,6 +30,35 @@ btn.onclick = function(event) {
  }
 };
 container.appendChild(btn);
+```
+1. **Procedural programming paradigm:**:
+  This paradigm emphasizes on procedure in terms of underlying machine model. It has the ability to reuse the code and it was boon at that time when it was in use because of its reusability.  
+BASIC, Pascal and C are examples of this paradigm.  
+  
+2. **Object Oriented Programming:**
+  The program is written as a collection of classes and object which are meant for communication. More emphasis is on data rather procedure. It can handle almost all kind of real life problems which are today in scenario. Examples: Java, JavaScript, Python, C++, Visual Basic, .NET, Ruby, Scala and PHP
+  
+3. **Parallel Processing approach:**
+  Parallel processing is the processing of program instructions by dividing them among multiple processors. A parallel processing system posses many numbers of processor with the objective of running a program in less time by dividing them. This approach seems to be like divide and conquer.
+
+### Declarative Programming paradigm.
+Is a style of building programs that expresses logic of computation without talking about its control flow. The focus is on what needs to be done rather how it should be done basically emphasize on what code code is actually doing. It just declare the result we want rather how it has be produced. Here an [example](https://spines.me/es/help/markdown/syntax/) in a code:  
+```
+ class Button extends React.Component{
+  this.state = { color: 'red' }
+  handleChange = () => {
+    const color = this.state.color === 'red' ? 'blue' : 'red';
+    this.setState({ color });
+  }
+  render() {
+    return (<div>
+      <button 
+         className=`btn ${this.state.color}`
+         onClick={this.handleChange}>
+      </button>
+    </div>);
+  }
+}
 ```
 
 1. **Logic Programming paradigm:**
