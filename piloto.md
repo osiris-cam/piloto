@@ -90,7 +90,43 @@ Is a style of building programs that expresses logic of computation without talk
   
 3. **Databases Processing approach:**
   This programming methodology is based on data and its movement. Program statements are defined by data rather than hard-coding a series of steps. Examples: SQL.
+  
+## [Programming language.](https://hackr.io/blog/what-is-programming-language)
+A programming language is the translation from human language to machine language and is designed to carry out processes that only computers can achieve. They are used to create codes that control the behavior of the computer. These codes are expressed as algorithms as a mode of human communication. It is made up of symbols and syntactic rules that define its structure and the meaning of each expression and element. In addition there is a process which is testing, debugging, compilation and then the source code is maintained. That is called programming.
+There are three types of programming language:
+1. **Machine language (low level language)**:
+ Collection of binary digits or bits that the computer reads and interprets (0 and 1)
+2. **Assembly language (low level language)**:
+  They are instructions, arithmetic operations such as ADD, SUB, DIV. Its advantages is that it has a higher encoding speed and its disadvantage is that it is not portable.
+3. **High-level language.
+ Designed to make people write and understand the programs easier than the previous two. An example of them is C, Python, Java, etc.
+ 
+## [Sequential algorithms](https://www.sciencedirect.com/topics/computer-science/sequential-algorithm)
+That in which one action follows another successively. A sequence is continued from the entry and exit of the actions until the process ends.
+Example:
+```
+#include <stdio.h>
+#include <math.h>
+int main (){
+	float cate1, cate2, hipotenusa;
+	
+	printf("Ingrese los dos catetos de triangulo, por favor:\n");		scanf("%f %f",&cate1, &cate2);
+	hipotenusa= sqrt(pow(cate1,2)+ pow(cate2,2));
+	printf("La hipotenusa es igual a %.1f",hipotenusa);
+	
+	
+	return 0;
+}
+```
+## Structured programm. 
+[Structured programming](https://www.geeksforgeeks.org/structured-programming-approach-with-advantages-and-disadvantages/) can be defined with a focus on where the Program is executed with a unique structure in order to be Clear, precise and to optimize time. In other words, the code works instruction after instruction. It uses only subroutines and three structures: sequence, selection (if and switch) and iteration (for and while loops). It does not support the ability to jump from one statement to another with the help of a statement like GOTO.
 
+### Examples:
+1. C
+2. C ++
+3. Java
+4. C #.
+![Ven](https://media.geeksforgeeks.org/wp-content/uploads/Programming-Approach.jpg)
 
 ## Data representations and operators.  
 
