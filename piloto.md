@@ -12,6 +12,27 @@ Programming paradigms are a way to classify programming languages based on their
 
 ![Varieties of paradigms](https://media.geeksforgeeks.org/wp-content/uploads/1-344.png)
 
+## Implementation methods of the programming paradigms.
+According with Edukera, we must bear in mind that both [**interpreted** and **compiled**](https://www.edureka.co/community/6776/compiled-vs-interpreted-languages) programming are codes that translate all syntax into *machine language*. In this case, you have to define what machine language is. Machine language is those instructions that the computer processor understands and is a binary code (1 and 0)
+The **compiled language** requires an additional step before its execution and converts the code to machine language, in addition a compiled language is much faster than one interpreted because when it is executed it is already in machine code. In short, it is a program that transforms the source code of a program to its equivalent in another lower-level programming language.
+
+### Examples:
+1. C
+2. C ++
+3. JAVA.
+4. Go.
+
+The **interpreted language** is a converter to machine language as it is executed. In short, it is a program that directly executes instructions written in a given programming language and is optimized for the moment of execution.
+
+### Examples:
+1. Python.
+2. Ruby.
+3. JavaScript.
+In conclusion, compiling is done to optimize execution work and this means more work for the programmer. In the interpreted, it is made to be easier for the programmer and this means an extra effort for the execution.
+
+Below is an image taken from [Medium](https://medium.com/from-the-scratch/stop-it-there-are-no-compiled-and-interpreted-languages-512f84756664):
+![Interpreted and compiled](https://miro.medium.com/max/991/1*3Iy-ohRRXj3lChmEbQTxIQ.png)
+
 ## [Classification of programming paradigms.](https://www.geeksforgeeks.org/introduction-of-programming-paradigms/) 
 
 ### Imperative Programming paradigm. 
