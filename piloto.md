@@ -101,8 +101,8 @@ There are three types of programming language:
  Collection of binary digits or bits that the computer reads and interprets (0 and 1)
 2. **Assembly language (low level language)**:
   They are instructions, arithmetic operations such as ADD, SUB, DIV. Its advantages is that it has a higher encoding speed and its disadvantage is that it is not portable.
-3. **High-level language.
- Designed to make people write and understand the programs easier than the previous two. An example of them is C, Python, Java, etc.
+3. **High-level language**.
+  Designed to make people write and understand the programs easier than the previous two. An example of them is C, Python, Java, etc.
  
 ## [Sequential algorithms](https://www.sciencedirect.com/topics/computer-science/sequential-algorithm)
 That in which one action follows another successively. A sequence is continued from the entry and exit of the actions until the process ends.
