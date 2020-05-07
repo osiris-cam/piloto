@@ -3,12 +3,10 @@
 
 ## What is a paradigm?  
 
-[Structured programming](https://searchsoftwarequality.techtarget.com/definition/structured-programming-modular-programming) sometimes known as modular programmingis a programming paradigm that facilitates the creation of programs with readable code and reusable components. All modern programming languages support structured programming, but the mechanisms of support, like the syntax of the programming languages, varies.
-
-Where modules or elements of code can be reused from a library, it may also be possible to build structured code using modules written in different languages, as long as they can obey a common module interface or application program interface (API) specification. However, when modules are reused, it's possible to compromise data security and governance, so it's important to define and enforce a privacy policy controlling the use of modules that bring with them implicit data access rights.
-According with TechTarget:
-> Structured programming encourages dividing an application program into a hierarchy of modules or autonomous elements, which may, in turn, contain other such elements. Within each element, code may be further structured using blocks of related logic designed to improve readability and maintainability. These may include case, which tests a variable against a set of values; Repeat, while and for, which construct loops that continue until a condition is met. In all structured programming languages, an unconditional transfer of control, or goto statement, is deprecated and sometimes not even available.    
-Programming paradigms are a way to classify programming languages based on their features.
+Programming paradigms are alternative approaches to programming processes. They fundamentally represent different approaches to building solutions to problems and therefore affect the entire software development process. 
+According with [Hackages](https://blog.hackages.io/tech-terms-explained-programming-paradigms-8c4072404f8e):
+> Programming is about solving problems and problems can usually be solved in a variety of ways. A programming paradigm is a way to approach a problem. While some programming languages allow you to use only one approach, most popular languages today allow developers to use a combination of them.
+On the highest level, we can differentiate between 2 types of programming paradigms: imperative and declarative.
 
 ![Varieties of paradigms](https://media.geeksforgeeks.org/wp-content/uploads/1-344.png)
 
@@ -123,6 +121,12 @@ int main (){
 ```
 ## Structured programm. 
 [Structured programming](https://www.geeksforgeeks.org/structured-programming-approach-with-advantages-and-disadvantages/) can be defined with a focus on where the Program is executed with a unique structure in order to be Clear, precise and to optimize time. In other words, the code works instruction after instruction. It uses only subroutines and three structures: sequence, selection (if and switch) and iteration (for and while loops). It does not support the ability to jump from one statement to another with the help of a statement like GOTO.
+
+[Structured programming](https://searchsoftwarequality.techtarget.com/definition/structured-programming-modular-programming)
+
+According with TechTarget:
+> [Structured programming](https://searchsoftwarequality.techtarget.com/definition/structured-programming-modular-programming) encourages dividing an application program into a hierarchy of modules or autonomous elements, which may, in turn, contain other such elements. Within each element, code may be further structured using blocks of related logic designed to improve readability and maintainability. These may include case, which tests a variable against a set of values; Repeat, while and for, which construct loops that continue until a condition is met. In all structured programming languages, an unconditional transfer of control, or goto statement, is deprecated and sometimes not even available.    
+Programming paradigms are a way to classify programming languages based on their features.
 
 ### Examples:
 1. C
