@@ -97,7 +97,9 @@ The jump sections that are used to influence the flow of execution during the ex
 ### Break.
 Programmers want to end a loop at a certain point in the body of the loop instead of waiting for the loop to end naturally on its input or output.
 It can be used to terminate an iteration statement and when executed causes the control flow to jump off to the next statement immediately following the iteration statement. The statement can be placed inside the body of the loop to implement this effect.
-The break statement is frequently used in conjunction with an if statement acting as an internal condition of the loop.
+The break statement is frequently used in conjunction with an if statement acting as an internal condition of the loop.   
+
+![break](https://beginnersbook.com/wp-content/uploads/2017/09/break_statement_C.jpg)
 
 Example:
 ```
