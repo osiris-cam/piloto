@@ -14,7 +14,7 @@ To stop the execution of the loops, a stop condition is used.
 
 ## While:
 This loop is one in which the body of the loop repeats while a certain condition is met. When the while statement is executed, the first thing that happens is that the condition is evaluated (a boolean expression. If it is evaluated false, no action is taken and the program proceeds to the next statement in the loop. If the boolean expression is true the body of the loop is then executed.
-![while](https://sites.google.com/site/ustitics111/home/part-1-2-programming-process/part-1-3-program-algorithm)
+![while](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRy9ZfrgBNgTXsJN44iTv1VFh6J8S_6_90__jFimOuFe5LoQdqr&usqp=CAU)
 Ejemplo:
 ```
 #include <stdio.h>
@@ -59,7 +59,7 @@ For example:
 ## Do-while.
 Evaluates the expression at the beginning to the beginning of the repeating loop, always used to create a pre-test loop. Pretest loops are also called input controlled loops.
 The body of the do-while loop always runs at least once even when the boolean expression is false.
-![do-while](hhttps://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.utn.edu.ec%2Freduca%2Fprogramacion%2Festructuras%2Fdowhile.html&psig=AOvVaw1YFJjPVUvwPDIj4gp3Emo0&ust=1589793742367000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDZs5nJuukCFQAAAAAdAAAAABAD)
+![do-while](https://www.utn.edu.ec/reduca/programacion/estructuras/RepetitivasHagaMientras.png)
 Example:
  ```
 #include <stdio.h>
