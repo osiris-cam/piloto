@@ -207,6 +207,4 @@ int main(void){
 ## ***Equipo***:
 1. Osiris Cámara Salinas.
 2. Victor Uribe Hernandez. 
-## ***Equipo***:
-1. Osiris Cámara Salinas.
-2. Victor Uribe Hernandez. 
+
