@@ -131,7 +131,82 @@ int main()
 }
 
 ```
+### If
+If statement is responsible for modifying the flow of execution of a program. Is always used with a condition. The condition is evaluated first before executing any statement inside the body of [If](https://www.guru99.com/c-if-else-statement.html). 
 
+![If](https://www.guru99.com/images/1/020819_0436_CConditiona1.png)
+
+### If-else
+With this statement the programmer could establish other action if the condition does not meet. [Else](https://www.guru99.com/c-if-else-statement.html) means that if the condition does not meet, the program will do the other action that is established by the programmer.
+
+![If-else](https://www.guru99.com/images/2013/04/if_then_flowchart.png)
+
+Example:
+```
+#include <stdio.h>
+int main()
+{
+	int x;
+	printf("Type a number: ");
+	scanf("%i", &x);
+	if(x % 2 == 0){
+		printf("Even");
+	} else{
+		printf("Odd");
+	}
+}
+```
+### Nested If-else
+When a series of decision is required, nested if-else is used. Nesting means using one [if-else](https://www.guru99.com/c-if-else-statement.html) construct within another one.
+
+![Nested If-else](https://www.guru99.com/images/1/020819_0436_CConditiona3.png)
+
+### Nested Else-If
+[Nested Else-if](https://www.guru99.com/c-if-else-statement.html) is used when multipath decisions are required.
+
+Example:
+```
+#include <stdio.h>
+#include <stdlib.h>
+int main(void) {    
+  int x;
+  printf("Type your score: "); 
+  scanf("%i", &x); 
+  if(x >= 0 && x <= 14){
+        printf("You are eliminated Loser"); 
+  }else if(x >= 15 && x <=20){
+       printf("You are qualificated. Great Job");
+  }else if(x > 20){
+        printf("You are the champion"); 
+  }else{
+        printf("You write wrong your score");
+  }
+}
+```
+### Ternary Operator
+With the [ternary operator](https://riptutorial.com/es/c/example/2158/operador-condicional---operador-ternario) the programmer could establish a condition anf if is true, the program will do the first action, but if is false, the program will do the second action. 
+Condition ? True : False
+
+![Ternary Operator](https://www.oscarlijo.com/blog/wp-content/uploads/2015/04/ternario.png)
+
+Example:
+```
+#include <stdio.h>
+int main(void){
+    int x;
+    printf("Type your grade: ");
+    scanf("%i", &x);    //The program scans the value and is asigned to the variable.
+    (x >= 70) ? printf("You passed") : printf("You failed");
+    /*If the condition meets the program prints the first phrase, but if not the 
+    program prints the second phrase
+    */  
+    return 0;
+}
+```
+
+## ***Equipo***:
+1. Osiris Cámara Salinas.
+2. Victor Uribe Hernandez. 
 ## ***Equipo***:
 1. Osiris Cámara Salinas.
 2. Victor Uribe Hernandez. 
