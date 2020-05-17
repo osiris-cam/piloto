@@ -1,6 +1,7 @@
 # **Introduction to structured programming**
 -------------------------------------------------------------------------------------------------------------------------
 ## Loops.
+![bucles](https://cdn1.iconfinder.com/data/icons/it-terms/512/loop-512.png)
 Many problems require repeating characteristics. In which some calculations or sequence of instructions are repeated over and over again using different data sets.
 The concept of looping is described and discussed as the repeating section of code that is so named because when the execution of the last statement ends, the control flow returns to the first statement and another repetition of the code statement begins.
 The typical loops are:
