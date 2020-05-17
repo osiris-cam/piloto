@@ -1,7 +1,8 @@
 # **Introduction to structured programming**
 -------------------------------------------------------------------------------------------------------------------------
 ## Loops.
-![bucles](https://cdn1.iconfinder.com/data/icons/it-terms/512/loop-512.png)
+![bucles](https://cdn1.iconfinder.com/data/icons/it-terms/512/loop-512.png)   
+
 Many problems require repeating characteristics. In which some calculations or sequence of instructions are repeated over and over again using different data sets.
 The concept of looping is described and discussed as the repeating section of code that is so named because when the execution of the last statement ends, the control flow returns to the first statement and another repetition of the code statement begins.
 The typical loops are:
@@ -60,7 +61,8 @@ For example:
 ## Do-while.
 Evaluates the expression at the beginning to the beginning of the repeating loop, always used to create a pre-test loop. Pretest loops are also called input controlled loops.
 The body of the do-while loop always runs at least once even when the boolean expression is false.
-![do-while](https://www.utn.edu.ec/reduca/programacion/estructuras/RepetitivasHagaMientras.png)
+![do-while](https://www.utn.edu.ec/reduca/programacion/estructuras/RepetitivasHagaMientras.png)   
+
 Example:
  ```
 #include <stdio.h>
