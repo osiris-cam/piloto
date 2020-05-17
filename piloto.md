@@ -59,7 +59,7 @@ For example:
 ## Do-while.
 Evaluates the expression at the beginning to the beginning of the repeating loop, always used to create a pre-test loop. Pretest loops are also called input controlled loops.
 The body of the do-while loop always runs at least once even when the boolean expression is false.
-![do-while](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.utn.edu.ec%2Freduca%2Fprogramacion%2Festructuras%2Fdowhile.html&psig=AOvVaw1YFJjPVUvwPDIj4gp3Emo0&ust=1589793742367000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDZs5nJuukCFQAAAAAdAAAAABAD)
+![do-while](hhttps://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.utn.edu.ec%2Freduca%2Fprogramacion%2Festructuras%2Fdowhile.html&psig=AOvVaw1YFJjPVUvwPDIj4gp3Emo0&ust=1589793742367000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDZs5nJuukCFQAAAAAdAAAAABAD)
 Example:
  ```
 #include <stdio.h>
