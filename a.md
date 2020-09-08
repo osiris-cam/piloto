@@ -50,3 +50,13 @@ Prints the user name currently logged on to the computer on the screen.
 To find out user and group names and numeric ID’s.
 ### stat:
 It shows much more detail than what ls does. It is a command-line utility that displays detailed information about given files or file systems.
+## Permission.
+There are 3 basic attributes for simple files: read, write, and execute.
+
+* Read permission (read):
+**r** means writing and comes from Read
+* Write permission (write):
+**w** means read and comes from Write
+* Execute permission (execute):
+**x** means execution and comes from eXecute
+### 
