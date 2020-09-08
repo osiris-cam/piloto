@@ -107,5 +107,42 @@ To find all the files within your home folder accessed more than (day specified)
 
 ./NUMPYS/Exe_1.py       
 [...]
+## 2.find /tmp -type f -empty:
+**$ find /tmp -type f -empty**
+/tmp/Diagnostics/POWERPNT/App_1599491607110764300_844C873B-1880-4982-B471-8AA25377A01A.log         
+
+/tmp/Discord Crashes/metadata        
+
+/tmp/Discord Crashes/operation_log.txt
+## 3.find /tmp -type f -name ".* ":
+**$ find /tmp -type f -name ".* "**
+/tmp/.ses        
+
+find: ‘/tmp/msdtadmin’: Permission denied       
+
+find: ‘/tmp/WinSAT’: Permission denied       
+## "4. find . -perm /444 ":
+**$ find . -perm /444**
+./.849C9593-D756-4E56-8D6E-42412F2A707B        
+
+./Almacén personal.lnk
+./desktop.ini        
+
+./Documentos        
+
+./Documentos/asesorias_py       
+
+./Documentos/asesorias_py/.ipynb_checkpoints       
+## 5. find -type f -print":
+**$ find -type f -print**
+./.vscode/c_cpp_properties.json        
+
+./DRY_1.py        
+
+./DRY_2.py       
+
+./Error1.py        
+
+
 
 
