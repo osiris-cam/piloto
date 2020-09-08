@@ -33,7 +33,7 @@ Copy the first file to another file.
 Delete directory contents recursively.
 ### rmdir:
 Delete empty directories. This option allows us to delete a directory without specifying -r / -R / –recursive, as long as the directory is empty.
-### rm * :
+### rm * : 
 Use a wildcard (* ) and regular expansions to match multiple files. For example, to remove all .pdf files in the current directory, use the following command
 ## locate
 ## locate [filename]:
