@@ -83,5 +83,29 @@ Change the permission to the execution of the program.
 * r-x 5
 * rw- 6
 * rwx 7
+## Find.
+### find filename:
+It used to search for files.
+### find . filename:
+To search the folder you are currently in.
+### find . -atime +1:
+To find all the files within your home folder accessed more than (day specified).
+# Fin exercise:
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+## 1. find . -type f -name "* .[OPTION]":
+**find . -type f -name "*.py"**
 
+*./DRY_1.py
+./DRY_2.py
+./Error1.py
+./Errores.py
+./Exer_26.py
+./NUMPYS/Exe_1.py
+./NUMPYS/Exe_2.py
+./PANDAS/CrossProduct_vectorized.py
+./PANDAS/dotProduct_vectorized.py
+./PANDAS/Pandas_exer1.py
+./PANDAS/tablas.py
+./PANDAS/tempCodeRunnerFile.py
+./tempCodeRunnerFile.py*
 
