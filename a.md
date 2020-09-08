@@ -59,4 +59,29 @@ There are 3 basic attributes for simple files: read, write, and execute.
 **w** means read and comes from Write
 * Execute permission (execute):
 **x** means execution and comes from eXecute
-### 
+### chmod +x filename: 
+Give permission to the execution of the program.
+### chmod -x filename: 
+Quit permission to the execution of the program.
+### chmod +w filename: 
+Give permission to write of the program.
+### chmod -w filename: 
+Quit permission to write of the program.
+### chmod +r filename: 
+Give permission to read of the program.
+### chmod -r filename: 
+Quit permission to read of the program.
+Also we have:
+### chmod 0numbersofheinsruction filename: 
+Change the permission to the execution of the program.        
+
+* --- 0
+* --x 1
+* -w- 2
+* -wx 3
+* r-- 4
+* r-x 5
+* rw- 6
+* rwx 7
+
+
