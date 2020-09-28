@@ -2,7 +2,7 @@
 -------------------------------------------------------------------------------------------------------------------------
 ## Data Importation.
 ### Define the data table concept.        
-Datatables allow you to create data tables with features such as paging, instant search, export, and multi-column sorting.
+Datatables allow us to create data tables with features such as paging, instant search, export, and multi-column sorting.
 DataTables comes with an extensive API that is used to manipulate or obtain information about the DataTables on a page.
 The API can be accessed in 3 ways:
 
@@ -65,7 +65,7 @@ Extensible Markup Language (XML) is a markup language that defines a set of rule
 
 XML is generally more useful to developers and software systems.
 #### xls.
-To maintain formatting data we will want to save in a proprietary format like XLS (Microsoft Office Excel), ODS (Open Office spreadsheets) or .numbers (Apple Mac), depending on the software we use. 
+To maintain formatting data we will want to save in a proprietary format like XLS (Microsoft Office Excel), ODS (Open Office spreadsheets) or numbers (Apple Mac), depending on the software we use. 
 ### URL vs API
 #### URL: 
 Universal Resource Locator. It is the specific address that is assigned to each one of the resources available on the network so that they can be located or identified. Thus, there is a URL for each of the resources (pages, sites, documents, files, folders) in internet.        
