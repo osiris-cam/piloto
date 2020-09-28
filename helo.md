@@ -43,7 +43,7 @@ The Date data type stores the calendar date. DATE data types require four bytes.
 A string is a sequence of characters. A string is noted by surrounding a group of letters with double quotes "". A String is actually a class with its own methods, some of which are featured below.   
 
 
-### [Common data formats] (https://data.gov.ie/formats): 
+### [Common data formats](https://data.gov.ie/formats): 
 #### csv:
 CSV (comma separated values) files are used to store tabular data in plain text format. Most often the fields in this data are separated by commas but other delimiters can be used such as |. TSV (tab separated values) files are similar but breaks are delimited by tabs. Both formats are widely supported and are often used to exchange data across multiple different computers and systems that support the format.
 #### json:     
