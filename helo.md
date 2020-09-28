@@ -47,8 +47,19 @@ A string is a sequence of characters. A string is noted by surrounding a group o
 #### csv:
 CSV (comma separated values) files are used to store tabular data in plain text format. Most often the fields in this data are separated by commas but other delimiters can be used such as |. TSV (tab separated values) files are similar but breaks are delimited by tabs. Both formats are widely supported and are often used to exchange data across multiple different computers and systems that support the format.
 #### json:     
-Json (javascript object notation) files are human-readable text files used to transport data in key/value pairs. It is a format widely used on the web and is often the type of data returned from an API call.
-Whilst human readable, json is generally used by software as a data source.
+Json (javascript object notation) one of the standart formats for sending data by HTTP request between web browsers and other applications. It is a much more free-fform data format than a tabular text form like CSV. Example:    
+```
+onj= """
+{"name" = "wes,     
+"places_lived": ["United States", "Spain", "Germany"],
+"pet": null,
+"siblings:[{"name": "Scott", "Aage": 30, "pets":["zeus", "zuko"]}   
+{"name": "Katie", "age": 38,    
+"pets": ["Sixes", "Stache", "Cisco"]}]     
+}     
+"""
+```
+
 #### xml:         
 Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable. The design goals of XML emphasize simplicity, generality, and usability across the Internet. Although the design of XML focuses on documents, the language is widely used for the representation of arbitrary data structures such as those used in web services.
 
@@ -82,4 +93,11 @@ file.close()
 ```file = open("sample.csv")
 data = file.read()
 print(data)
-file.close()```
+file.close()
+```
+### Data structure as a function of its types. 
+- Linear: arrays, lists
+- Tree: binary, heaps, space partitioning etc.
+- Hash: distributed hash table, hash tree etc.
+- Graphs: decision, directed, acyclic etc.
+
