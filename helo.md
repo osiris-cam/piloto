@@ -25,8 +25,6 @@ represent characteristics such as a person’s gender, marital status, hometown,
 
 
 ![Categorical](https://o.quizlet.com/8UUywzzaMhY2ZGHrWE7VkA_b.png)
-
-
 #### Numeric:   
 These data have meaning as a measurement, such as a person’s height, weight, IQ, or blood pressure. In this type we have a classification of data:   
 
