@@ -62,11 +62,24 @@ Universal Resource Locator. It is the specific address that is assigned to each 
 Application Programming Interfaces. It is a set of definitions and protocols that is used to develop and integrate application software, allowing communication between two software applications through a set of rules. API is like a formal specification that establishes how a module of a software communicates or interacts with another to fulfill one or many functions. All depending on the applications that are going to use them, and the permissions that the API owner gives to third-party developers.
 #### DIFFERENCE: 
 Both of these services work as a medium of communication but there is a difference between both of them which is that a web service allows communication between 2 machines over an internet
-### Identify the secure data transfer protocols.
-#### Secure File Transfer Protocol (SFTP)
-#### File Transfer Protocol – Secure (FTPS)
-#### Hypertext Transfer Protocol – Secure (HTTPS)
+### [Secure data transfer protocols.](https://www.globalscape.com/solutions/secure-file-transfer)
+#### Secure File Transfer Protocol (SFTP).
+SFTP transfers files with the Secure Shell (SSH) connection – SFTP is an encrypted network protocol that can enable a remote login to operate over a network that lacks security.
+#### File Transfer Protocol – Secure (FTPS):
+FTPS offers encryption and uses an application layer wrapper, known as Secure Sockets Layer (SSL) to enable secure and private communications across a network.
+#### Hypertext Transfer Protocol – Secure (HTTPS).
+HTTPS secures websites when users are providing sensitive information like credit card numbers or other personal information.
 #### Applicability Statement 2 (AS2)
-
+AS2 is a standard used to transfer Electronic Data Interchange (EDI) messages and other data in real time. 
 ### Describe the procedures for data importing.
-
+#### Importing TXT
+```file = open("sample.txt")
+data = file.read()
+print(data)
+file.close()
+```
+#### Importing CSV
+```file = open("sample.csv")
+data = file.read()
+print(data)
+file.close()```
