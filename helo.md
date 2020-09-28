@@ -55,9 +55,18 @@ Extensible Markup Language (XML) is a markup language that defines a set of rule
 XML is generally more useful to developers and software systems.
 #### xls.
 To maintain formatting data we will want to save in a proprietary format like XLS (Microsoft Office Excel), ODS (Open Office spreadsheets) or .numbers (Apple Mac), depending on the software we use. 
-### Differentiate between local and remote repositories: url, apis.
-
+### URL vs API
+#### URL: 
+Universal Resource Locator. It is the specific address that is assigned to each one of the resources available on the network so that they can be located or identified. Thus, there is a URL for each of the resources (pages, sites, documents, files, folders) in internet.        
+#### API.
+Application Programming Interfaces. It is a set of definitions and protocols that is used to develop and integrate application software, allowing communication between two software applications through a set of rules. API is like a formal specification that establishes how a module of a software communicates or interacts with another to fulfill one or many functions. All depending on the applications that are going to use them, and the permissions that the API owner gives to third-party developers.
+#### DIFFERENCE: 
+Both of these services work as a medium of communication but there is a difference between both of them which is that a web service allows communication between 2 machines over an internet
 ### Identify the secure data transfer protocols.
+#### Secure File Transfer Protocol (SFTP)
+#### File Transfer Protocol – Secure (FTPS)
+#### Hypertext Transfer Protocol – Secure (HTTPS)
+#### Applicability Statement 2 (AS2)
 
 ### Describe the procedures for data importing.
 
