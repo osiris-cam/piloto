@@ -30,7 +30,11 @@ These data have meaning as a measurement, such as a person’s height, weight, I
 
 
 ![Numeric](https://miro.medium.com/max/802/1*lheLiN7y4sSD2JKvow-clw.jpeg)
-#### Boolean
+#### Boolean:       
+The field values for importing Boolean or checkbox data fields are as shown below:
+- If checkbox is selected - True or 1
+- If checkbox is not selected - False or 0
+We must to take sure that the data we plan to import from Boolean or checkbox fields contain values that get properly converted during the import process.
 #### Dates
 #### Strings.
 
