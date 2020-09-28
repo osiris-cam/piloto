@@ -40,9 +40,21 @@ The Date data type stores the calendar date. DATE data types require four bytes.
 
 ```TIME [time_precision] [time_zone_spec]```
 #### Strings.
+A string is a sequence of characters. A string is noted by surrounding a group of letters with double quotes "". A String is actually a class with its own methods, some of which are featured below.   
 
-### Describe the common data formats: csv, json, xml y xls.
 
+### [Common data formats] (https://data.gov.ie/formats): 
+#### csv:
+CSV (comma separated values) files are used to store tabular data in plain text format. Most often the fields in this data are separated by commas but other delimiters can be used such as |. TSV (tab separated values) files are similar but breaks are delimited by tabs. Both formats are widely supported and are often used to exchange data across multiple different computers and systems that support the format.
+#### json:     
+Json (javascript object notation) files are human-readable text files used to transport data in key/value pairs. It is a format widely used on the web and is often the type of data returned from an API call.
+Whilst human readable, json is generally used by software as a data source.
+#### xml:         
+Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable. The design goals of XML emphasize simplicity, generality, and usability across the Internet. Although the design of XML focuses on documents, the language is widely used for the representation of arbitrary data structures such as those used in web services.
+
+XML is generally more useful to developers and software systems.
+#### xls.
+To maintain formatting data we will want to save in a proprietary format like XLS (Microsoft Office Excel), ODS (Open Office spreadsheets) or .numbers (Apple Mac), depending on the software we use. 
 ### Differentiate between local and remote repositories: url, apis.
 
 ### Identify the secure data transfer protocols.
