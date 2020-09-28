@@ -35,7 +35,10 @@ The field values for importing Boolean or checkbox data fields are as shown belo
 - If checkbox is selected - True or 1
 - If checkbox is not selected - False or 0
 We must to take sure that the data we plan to import from Boolean or checkbox fields contain values that get properly converted during the import process.
-#### Dates
+#### Dates:          
+The Date data type stores the calendar date. DATE data types require four bytes. A calendar date is stored internally as an integer value equal to the number of days since December 31, 1899. The Date values are stored as integers, we can use them in arithmetic expressions. On another hand, The time data type consists of a time in hour, minutes, seconds, optional fractions of a second, and optional time zone. For example:       
+
+```TIME [time_precision] [time_zone_spec]```
 #### Strings.
 
 ### Describe the common data formats: csv, json, xml y xls.
